@@ -1,5 +1,7 @@
 # Sleep Health vs. Occupation (Elisabeth Villarreal):
 
+Dataset used: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset 
+
 Occupation: The occupation or profession of the person.
 
 Quality of Sleep (scale: 1-10): A subjective rating of the quality of sleep, ranging from 1 to 10.
