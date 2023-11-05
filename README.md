@@ -32,4 +32,3 @@ Alternative Hypothesis (Ha): Sleep health is affected by occupations that are as
 Sleep quality and occupation stress have a negative correlation (r-value = -0.86). The higher the occupation stress, the lower the sleep quality.
 
 The p-value is less than 0.05 (0.004). Therefore, sleep quality and occupation stress are statistically significant and we can reject the null hypothesis.
-=======
