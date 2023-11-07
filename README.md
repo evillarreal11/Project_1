@@ -1,7 +1,24 @@
 # Project_1
-Project 1
-Jessica References:
+
+Sleep Disorder Study Analysis.pptx file is our presentation. 
+
+The following team members have collaborated on this project:
+
+Elisabeth Villarreal
+Jessica Baggett
+Okechukwu Odunze
+Abraham (Heshy) BRody
+
+See contributions of the analyses shown on Readme from Elisabeth and Jessica...
+
+The proposal file has the citation for the dataset used. The citation is also located below:
+
+THARMALINGAM, LAKSIKA. (2023, August 15). Sleep Health and Lifestyle Dataset. Kaggle.com. https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset/data
+
+**Project 1**
+**Jessica References:**
 High Blood Pressure Symptoms and Causes. 2021, May 18. National Center for Chronic Disease Prevention and Health Promotion , Division for Heart Disease and Stroke Prevention. Centers for Disease Control and Prevention. https://www.cdc.gov/bloodpressure/about.htm#:~:text=Blood%20pressure%20is%20measured%20using,your%20heart%20rests%20between%20beats.
+
 
 # Sleep Health vs. Occupation (Elisabeth Villarreal):
 
